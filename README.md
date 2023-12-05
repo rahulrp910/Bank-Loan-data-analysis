@@ -11,16 +11,16 @@ Key Performance Indicators (KPIs) Performed:
 1.	Total Loan Applications:
 •	Calculated the total number of loan applications received during the specified period.
 •	Tracked Month-to-Date (MTD) Loan Applications and monitored Month-over-Month (MoM) changes.
-2.	Total Funded Amount:
+3.	Total Funded Amount:
 •	Understood the total amount disbursed as loans.
 •	Kept a record of Month-to-Date (MTD) Total Funded Amount and Analyzed Month-over-Month (MoM) changes.
-3.	Total Amount Received:
+4.	Total Amount Received:
 •	Tracked the total amount received from borrowers as loan repayments.
 •	Analyzed Month-to-Date (MTD) Total Amount Received and observed Month-over-Month (MoM) changes.
-4.	Average Interest Rate:
+5.	Average Interest Rate:
 •	Calculated the average interest rate across all loans.
 •	Monitored Month-to-Date (MTD) variations in interest rates and observed Month-over-Month (MoM) changes.
-5.	Average Debt-to-Income Ratio (DTI):
+6.	Average Debt-to-Income Ratio (DTI):
 •	Computed the average DTI for all borrowers.
 •	Tracked Month-to-Date (MTD) fluctuations in DTI and observed Month-over-Month (MoM) changes.
 
