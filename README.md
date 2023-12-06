@@ -2,7 +2,7 @@
 Live Dashbord : https://www.novypro.com/project/bank-loan-analysis-report-dashboard
 
 
-Project Objective or Overview
+Project Objective or Overview:
 To monitor and assess bank lending activities, a thorough bank loan analysis report was developed. The objective was to provide insights into key loan-related metrics and their changes over time, aiding data-driven decision-making, tracking loan portfolio health, and identifying trends for lending strategy.
 
 KPI Requirements
