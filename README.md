@@ -1,5 +1,5 @@
 # Bank-Loan-analysis-Report
-Live Dashbord : https://www.novypro.com/project/bank-loan-data-analysis
+Live Dashbord : https://www.novypro.com/project/bank-loan-analysis-report-dashboard
 
 
 Project Objective or Overview
